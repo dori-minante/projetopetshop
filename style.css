@@ -1,0 +1,5 @@
+img {
+  width: 200px; /* ajuste o tamanho conforme necessário */
+  height: auto; /* mantenha a proporção original da imagem */
+  margin-top: 20px; /* ajuste a margem conforme necessário */
+}
